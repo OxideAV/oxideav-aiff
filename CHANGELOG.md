@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1](https://github.com/OxideAV/oxideav-aiff/releases/tag/v0.0.1) - 2026-05-29
+
+### Other
+
+- Bootstrap oxideav-aiff round 185 — AIFF / AIFF-C container parser
+- Initial commit — MIT License
+
 ### Added — round 185 Phase 1 bootstrap
 
 First public landing of `oxideav-aiff`. Implements the AIFF / AIFF-C
